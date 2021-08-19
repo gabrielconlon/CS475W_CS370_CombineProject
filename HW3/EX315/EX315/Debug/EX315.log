@@ -1,0 +1,25 @@
+﻿Build started 2/27/2012 9:04:44 AM.
+     1>Project "C:\Users\gconlon13\Desktop\EX315\EX315\EX315.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\EX315.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\EX315.exe.embed.manifest.res" Debug\EX315_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gconlon13\Desktop\EX315\Debug\EX315.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EX315.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gconlon13\Desktop\EX315\Debug\EX315.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gconlon13\Desktop\EX315\Debug\EX315.lib" /MACHINE:X86 Debug\EX315.exe.embed.manifest.res
+         Debug\EX315.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\EX315.exe.embed.manifest" /manifest Debug\EX315.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         EX315.vcxproj -> C:\Users\gconlon13\Desktop\EX315\Debug\EX315.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\EX315.unsuccessfulbuild".
+         Touching "Debug\EX315.lastbuildstate".
+     1>Done Building Project "C:\Users\gconlon13\Desktop\EX315\EX315\EX315.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21

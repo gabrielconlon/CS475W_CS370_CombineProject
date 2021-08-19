@@ -1,0 +1,16 @@
+Script started on Fri Apr 27 10:22:12 2012
+Hi my name is... Gabe
+
+MySet: dog cat mouse
+/usr/bin/command: dog cat mouse
+3 arguments
+
+The file fred.c does not exist
+The file does exist
+
+You have entered 3 variables, default is to use variable 1
+WOO! Its the weekend
+
+Welcome to C++!
+
+Script done on Fri Apr 27 10:22:16 2012
